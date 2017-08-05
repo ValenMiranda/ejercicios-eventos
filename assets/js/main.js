@@ -21,5 +21,5 @@ function mouse(){
 }
 
 demo();
+mouse();
 load();
-Mouse();
