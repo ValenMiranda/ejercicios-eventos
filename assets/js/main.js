@@ -3,4 +3,13 @@ function load() {
 }
 window.onload = load;
 
+function demo(){
+	var boton = document.getElementById("demo");
+	boton.addEventListener("click", function(){
+		alert("¡HOLA MUNDO!");
+	})
+}
+
 load();
+demo();
+
