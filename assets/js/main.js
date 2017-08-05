@@ -22,4 +22,4 @@ function mouse(){
 
 demo();
 load();
-Mouse();m
+Mouse();
